@@ -86,7 +86,7 @@
 ### 【泡泡搞事组】
 组长：方宇
 
-组员：
+组员：王意茹，宋代伟，李新
 
 ### 【泡泡新闻社】
 组长：周艺
@@ -101,7 +101,7 @@
 ### 【泡泡音视频组】
 组长：赵嘉珩
 
-组员：
+组员：刘征、孙玉嘉、赵江龙
 
 ### 【泡泡网站组】
 组长：刘剑锋、王超群
@@ -181,13 +181,16 @@ PS：如果误将教师梯队的成员放入了学生梯队，可以联系我们
 2. [泡泡论坛](www.paopaorobot.org/bbs)
 3. [泡泡机器人bilibili主页](https://space.bilibili.com/38737757?from=search&seid=18339354462510546580)
 4. [泡泡机器人公开课直播-斗鱼主页](https://www.douyu.com/1219482)
-5. 泡泡机器人微信公众号
+5. [泡泡机器人一周年纪念视频](https://v.qq.com/iframe/preview.html?vid=k03942mxceh)
+6. [泡泡机器人两周年纪念视频](https://v.qq.com/x/page/e0762somgaa.html)
+7. [泡泡机器人两周年纪念视频-AR版本](https://v.qq.com/x/page/c0761tq4ew5.html)
+8. 泡泡机器人微信公众号
 
 <div align="center">
 <img src="images/wechat.jpg" height="200" width="150">
 </div>
 
-6. 泡泡论坛APP
+9. 泡泡论坛APP
 
 <div align="center">
 <img src="images/paopao_app.png" height="100" width="100">
