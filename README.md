@@ -55,50 +55,62 @@
 泡泡机器人现任成员：
 ### 【泡泡图灵智库】
 组长：蔡纪源、杨小育
+
 组员：
 
 ### 【泡泡一分钟】
 组长：颜青松、陈世浪
+
 组员：
 
 ### 【泡泡点云时空】
 组长：徐二帅
+
 组员：
 
 ### 【泡泡源代码组】
 组长：邱笑晨
+
 组员：
 
 ### 【泡泡传感器评测组】
 组长：周平
+
 组员：
 
 ### 【泡泡机器人公开课组】
 组长：王琛、文聪聪
+
 组员：
 
 ### 【泡泡搞事组】
 组长：方宇
+
 组员：
 
 ### 【泡泡新闻社】
 组长：周艺
+
 组员：
 
 ### 【泡泡播音组】
 组长：程枭、王晓鹏
+
 组员：
 
 ### 【泡泡音视频组】
 组长：赵嘉珩
+
 组员：
 
 ### 【泡泡网站组】
 组长：刘剑锋、王超群
+
 组员：
 
 ### 【泡泡线下学术组】
 组长：赵开勇
+
 组员：
 
 ---
@@ -165,12 +177,21 @@ PS：如果误将教师梯队的成员放入了学生梯队，可以联系我们
 
 ---
 # 泡泡机器人相关链接
-1. [泡泡官网](www.paopaorobot.org)
+1. [泡泡机器人官网](www.paopaorobot.org)
 2. [泡泡论坛](www.paopaorobot.org/bbs)
-3. 泡泡机器人微信公众号
-![avatar](images/wechat.jpg)
-4. 泡泡论坛APP
-![avatar](images/paopao_app.png)
+3. [泡泡机器人bilibili主页](https://space.bilibili.com/38737757?from=search&seid=18339354462510546580)
+4. [泡泡机器人公开课直播-斗鱼主页](https://www.douyu.com/1219482)
+5. 泡泡机器人微信公众号
+
+<div align="center">
+<img src="images/wechat.jpg" height="200" width="150">
+</div>
+
+6. 泡泡论坛APP
+
+<div align="center">
+<img src="images/paopao_app.png" height="100" width="100">
+</div>
 
 ---
 # 泡泡机器人介绍
