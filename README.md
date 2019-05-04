@@ -244,6 +244,28 @@ PS：如果误将教师梯队的成员放入了学生梯队，可以联系我们
 #### 2019年5月4日，泡泡机器人线下学术组正式成立
 
 ---
+# 泡泡机器人定制版纪念品展示
+#### 泡泡文化衫
+<div align="center">
+<img src="images/t-shirt-3-1.png" height="200" width="350">
+<img src="images/t-shirt-3-2.png" height="200" width="350">
+</div>
+<div align="center">
+<img src="images/t-shirt-1.jpg" height="200" width="150">
+<img src="images/t-shirt-2.jpg" height="200" width="150">
+</div>
+
+#### 泡泡水杯
+<div align="center">
+<img src="images/cup-1.jpg" height="200" width="150">
+</div>
+
+#### 泡泡雨伞
+<div align="center">
+<img src="images/cup-2.jpg" height="200" width="150">
+</div>
+
+---
 # 泡泡机器人介绍
 泡泡机器人由一帮热爱探索并立志推广机器人同时定位与地图构建(SLAM)技术的极客创办而成，通过原创文章、公开课等方式分享SLAM领域的数学理论、编程实践和学术前沿。目前已经发展成为国内最大的以SLAM知识传播为主的知识共享以及产品研发平台。
 
