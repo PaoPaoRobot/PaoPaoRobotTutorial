@@ -260,6 +260,7 @@ PS：如果误将教师梯队的成员放入了学生梯队，可以联系我们
 #### 泡泡水杯
 <div align="center">
 <img src="images/cup-1.jpg" height="200" width="150">
+<img src="images/cup-3.jpg" height="200" width="150">
 </div>
 
 #### 泡泡雨伞
