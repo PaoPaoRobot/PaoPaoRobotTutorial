@@ -195,8 +195,8 @@ PS：如果误将教师梯队的成员放入了学生梯队，可以联系我们
 
 ---
 # 泡泡机器人相关链接
-1. [泡泡机器人官网](www.paopaorobot.org)
-2. [泡泡论坛](www.paopaorobot.org/bbs)
+1. [泡泡机器人官网](http://www.paopaorobot.org)
+2. [泡泡论坛](http://www.paopaorobot.org/bbs)
 3. [泡泡机器人bilibili主页](https://space.bilibili.com/38737757?from=search&seid=18339354462510546580)
 4. [泡泡机器人公开课直播-斗鱼主页](https://www.douyu.com/1219482)
 5. [泡泡机器人一周年纪念视频](https://v.qq.com/x/page/k03942mxceh.html)
