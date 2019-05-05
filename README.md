@@ -251,12 +251,12 @@ PS：如果误将教师梯队的成员放入了学生梯队，可以联系我们
 # 泡泡机器人定制版纪念品展示
 #### 泡泡奖杯
 <div align="center">
-<img src="images/cup-4.jpg" height="200" width="150">
+<img src="images/cup-4.jpg" height="350" width="350">
 </div>
 
 #### 泡泡文化衫
 <div align="center">
-<img src="images/t-shirt-3-1.png" height="200" width="350">
+<img src="images/t-shirt-3-1.png" height="300" width="450">
 </div>
 <div align="center">
 <img src="images/t-shirt-1.jpg" height="200" width="150">
